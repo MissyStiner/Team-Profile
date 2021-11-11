@@ -34,9 +34,7 @@ WHEN I decide to finish building my team<br>
 THEN I exit the application, and the HTML is generated
 
 ## Mock-Up
-https://courses.bootcampspot.com/courses/715/files/848799/preview
-![image](https://user-images.githubusercontent.com/85651869/141324813-92bb8300-195d-48bd-bcca-8b2596182489.png)
-
+![image](https://user-images.githubusercontent.com/85651869/141350824-b71593a2-7739-48f0-8be7-ad2cde6793d6.png)
 
 ## Technology
 Use Jest for running the unit tests.<br>
