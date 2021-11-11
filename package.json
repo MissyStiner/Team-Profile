@@ -1,0 +1,22 @@
+{
+  "name": "team-profile",
+  "version": "1.0.0",
+  "description": "Application that takes in information about employees and generates an HTML webpage that displays summaries for each person.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissyStiner/Team-Profile.git"
+  },
+  "author": "Missy Stiner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MissyStiner/Team-Profile/issues"
+  },
+  "homepage": "https://github.com/MissyStiner/Team-Profile#readme"
+}
