@@ -6,8 +6,8 @@ This is a Node.js command-line application that takes in information about emplo
 ## Video Demo Walkthrough
 URL:  walkthrough video that demonstrates its functionality and all of the tests passing.
 
-## Contributions
-No starter code.
+## GitHub
+https://github.com/MissyStiner/Team-Profile
 
 ## User Story
 AS A manager<br>
